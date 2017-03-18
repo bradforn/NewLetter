@@ -38,11 +38,24 @@ color:#FFA500;font-size:13px;font-weight:bold;text-decoration:none;
 }
 
 a.link2{
-padding:8px;background:#FFA500;font-size:13px;color:#ffffff;text-decoration:none;font-weight:bold;
+ background:#FFA500;
+ color:#ffffff;
+ padding:8px 10px;
+ text-decoration:none;font-size:13px;
 }
-
+a.link2:hover{
+  background-color: #ffbf80
+}
 a.link3{
+  border-radius: 5px;
 background:#FFA500; color:#ffffff; padding:8px 10px;text-decoration:none;font-size:13px;
+}
+a.link4{
+  background:#ffffff; color:#000000; padding:8px 10px;text-decoration:none;font-size:13px;
+}
+a.link4:hover{
+  background-color: #DCDCDC;
+
 }
 .bgBody{
 background: #F6F6F6;
