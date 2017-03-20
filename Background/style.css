@@ -1,3 +1,29 @@
+h2.header {
+  text-align:center !important;
+  text-indent: 50px;
+  letter-spacing: 3px;
+  color: #000000;
+  padding: 15px;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 20px;
+  font-family:helvetica, sans-serif;'
+}
+
+
+
+p.paragraph {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  color: #000000;
+  padding: 15px;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 12px;
+  font-family:helvetica, sans-serif;'
+}
+
 body {
  padding-top: 0 !important;
  padding-bottom: 0 !important;
