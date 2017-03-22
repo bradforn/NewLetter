@@ -1,5 +1,5 @@
 h2.header {
-
+ font-size: 50px;
 }
 
 
@@ -8,10 +8,12 @@ p.paragraph {
   text-indent: 50px;
   text-align: justify;
   color: #000000;
-  padding: 15px;
+  padding: 10px;
+  padding-right: 100px;
+  padding-left: 100px;
 /*  padding-left: 200px;
   padding-right: 200px; */
-  font-size: 13px;
+  font-size: 18px;
   font-family:sans-serif;
 }
 
