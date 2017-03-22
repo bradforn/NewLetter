@@ -1,8 +1,17 @@
-table.grid{
+/*table.grid{
   height: 50px;
+}*/
+
+td.left{
+  border-right: 5px solid #C0C0C0	;
+
 }
-
-
+/*td.row1{
+    border-bottom: 5px solid #808080;
+}*/
+td.row2{
+    border-top: 5px solid #C0C0C0	;
+}
 
 th.title {
   display: block;
