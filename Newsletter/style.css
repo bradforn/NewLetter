@@ -1,3 +1,21 @@
+table.grid{
+  height: 50px;
+}
+
+
+
+th.title {
+  display: block;
+}
+
+
+
+th.section {
+  display: block;
+}
+
+
+
 body {
  padding-top: 0 !important;
  padding-bottom: 0 !important;
