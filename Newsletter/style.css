@@ -1,6 +1,16 @@
 /*table.grid{
   height: 50px;
 }*/
+h1.title{
+
+  line-height: 30px;
+}
+
+p.content{
+
+  font-size: 14px;
+  text-indent: 50px;
+}
 
 td.left{
   border-right: 5px solid #C0C0C0	;
